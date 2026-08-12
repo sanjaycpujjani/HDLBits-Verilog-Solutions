@@ -7,7 +7,7 @@ My solutions to HDLBits problems while learning Verilog HDL and digital design.
 | Section | Completed |
 |---|---:|
 | Getting Started | 2 |
-| Basics | 1 |
+| Basics | 2 |
 | Vectors | 0 |
 | Modules | 0 |
 | Procedures | 0 |
