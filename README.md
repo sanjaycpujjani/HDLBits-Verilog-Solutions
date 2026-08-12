@@ -6,7 +6,7 @@ My solutions to HDLBits problems while learning Verilog HDL and digital design.
 
 | Section | Completed |
 |---|---:|
-| Getting Started | 1 |
+| Getting Started | 2 |
 | Vectors | 0 |
 | Modules | 0 |
 | Combinational Logic | 0 |
