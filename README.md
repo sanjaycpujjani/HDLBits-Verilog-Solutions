@@ -1,6 +1,6 @@
 # HDLBits Verilog Solutions
 
-My solutions to HDLBits problems while learning Verilog HDL and digital design.
+My solutions to HDLBits problems.
 
 ## Progress
 
@@ -22,8 +22,4 @@ My solutions to HDLBits problems while learning Verilog HDL and digital design.
 - Verilog HDL
 - HDLBits
 - ModelSim
-- Quartus
-
-## Goal
-
-Build a strong foundation in Verilog and RTL design through hands-on problem solving.
+- Altera Quartus
