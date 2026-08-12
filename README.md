@@ -7,11 +7,15 @@ My solutions to HDLBits problems while learning Verilog HDL and digital design.
 | Section | Completed |
 |---|---:|
 | Getting Started | 2 |
+| Basics | 0 |
 | Vectors | 0 |
 | Modules | 0 |
+| Procedures | 0 |
+| More Features | 0 |
 | Combinational Logic | 0 |
 | Sequential Logic | 0 |
 | Finite State Machines | 0 |
+| Verification | 0 |
 
 ## Tools
 
