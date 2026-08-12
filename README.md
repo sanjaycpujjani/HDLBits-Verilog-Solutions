@@ -7,7 +7,7 @@ My solutions to HDLBits problems.
 | Section | Completed |
 |---|---:|
 | Getting Started | 2 |
-| Basics | 2 |
+| Basics | 3 |
 | Vectors | 0 |
 | Modules | 0 |
 | Procedures | 0 |
