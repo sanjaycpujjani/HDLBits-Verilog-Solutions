@@ -8,7 +8,7 @@ My solutions to HDLBits problems.
 |---|---:|
 | Getting Started | 2 |
 | Basics | 8 |
-| Vectors | 0 |
+| Vectors | 5 |
 | Modules | 0 |
 | Procedures | 0 |
 | More Features | 0 |
